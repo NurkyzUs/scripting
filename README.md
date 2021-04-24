@@ -7,11 +7,6 @@ basic system admin scripts
 ...
 ### [python_scripts](python_scripts) - Basic python scripts for System Admins and System Engineers.
 
-...
-### Contributors
-
-...
-### Sounds
 
 
 This repository contains some simple and useful scripts for system admins and system engineers 
